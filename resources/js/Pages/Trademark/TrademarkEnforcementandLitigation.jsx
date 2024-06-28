@@ -1,7 +1,7 @@
 import MarcomLayout from "@/Layouts/MarcomLayout.jsx";
 import {Head} from "@inertiajs/react";
 
-export default function TrademarkEnforcementandLitigation() {
+export default function TrademarkEnforcementAndLitigation() {
     return (
         <MarcomLayout>
             <Head title="Trademark Enforcement and Litigation" />
